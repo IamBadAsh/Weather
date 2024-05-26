@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkyView</string>
+    <string name="wind">Wind speed</string>
+    <string name="rain">Chance of rain</string>
+    <string name="humidity">Humidity</string>
+    <string name="save">Save</string>
+    <string name="history">History</string>
+</resources>

@@ -1,0 +1,22 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Button pressed state -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@android:color/transparent" /> <!-- Transparent background -->
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFF" /> <!-- White outline color -->
+            <corners android:radius="100dp" /> <!-- Very rounded corners -->
+        </shape>
+    </item>
+    <!-- Default button state -->
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" /> <!-- Transparent background -->
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFF" /> <!-- White outline color -->
+            <corners android:radius="100dp" /> <!-- Very rounded corners -->
+        </shape>
+    </item>
+</selector>
