@@ -26,11 +26,6 @@ Icons used in the app are sourced from [Flaticon](https://www.flaticon.com/) and
 ## Disclaimer
 
 This app is developed for educational purposes and uses sample data from the Open Meteo API. It should not be used for any commercial or production purposes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to contribute to the project by submitting pull requests or reporting issues.
