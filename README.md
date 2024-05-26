@@ -14,7 +14,7 @@ Weather data is fetched from the [Open Meteo API](https://open-meteo.com/en/docs
 
 ## Icons
 
-Icons used in the app are sourced from [Flaticon](https://www.flaticon.com/) and are used for illustrative purposes.
+Icons used in the app are sourced from [Flaticon](https://www.flaticon.com/) [Freepik](https://www.freepik.com)and are used for illustrative purposes.
 
 ## Usage
 
